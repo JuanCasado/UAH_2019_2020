@@ -1,0 +1,26 @@
+---
+title : 'UAH 2019-20202'
+author : 'Juan Casado Ballesteros'
+date : '30/05/2019'
+keywords : 'Subjects, UAH, 2020'
+---
+
+# Subjects for 2020 C1
+
+1. Sistemas de control para robots **(OBLIGATORIA)**
+2. Extracción automática del conocimiento **-->** Fundamentos de la Ciencia de Datos **(OBLIGATORIA)**
+3. Computación Ubicua **(OBLIGATORIA)**
+4. Visión artificial
+5. Soft computing, ingeniería de voz e imagen
+6. Patrones SW
+7. Computación de altas prestaciones
+
+# Subjects for 2020 C2
+
+1. Sistemas de Control Inteligente **-->** Planificación automática **(OBBLIGATORIA)**
+2. Modelos avanzados de bases de datos
+3. Bioingeniería
+4. Seguridad en Sistemas Distribuidos
+5. Fundamentos del Comercio Electrónico
+
+*We need to choose 8 subjects*
