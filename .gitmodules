@@ -13,3 +13,6 @@
 [submodule "DATOS"]
 	path = DATOS
 	url = https://github.com/JuanCasado/DATOS.git
+[submodule "CONTROL"]
+	path = CONTROL
+	url = https://github.com/JuanCasado/CONTROL.git
