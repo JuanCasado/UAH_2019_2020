@@ -7,3 +7,6 @@
 [submodule "ROBOTICA"]
 	path = ROBOTICA
 	url = https://github.com/JuanCasado/ROBOTICA.git
+[submodule "PATRONES"]
+	path = PATRONES
+	url = https://github.com/JuanCasado/PATRONES.git
