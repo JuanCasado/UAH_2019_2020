@@ -1,0 +1,55 @@
+---
+title : 'UAH 2019-20202'
+author : 'Juan Casado Ballesteros'
+date : '2/08/2019'
+keywords : 'Subjects, UAH, 2020'
+---
+
+# C1 (7 Subjects)
+
+* **CU Computación Ubicua                                         (781002)**
+* **CI Sistemas de Control Inteligente                            (781005)**
+* **CD Fundamentos de la Ciencia de Datos                         (781006)**
+* PS Patrones software                                          (780042)
+* CR Sistemas de Control Para Robots                            (590015)
+* VA Sistemas de Visión Artificial                              (780029)
+* SC Aplicaciones del Soft-Computing en Energía, Voz e Imagen   (780034)
+
+|Horario     |Lunes       |Martes      |Miércoles   |Jueves      |Viernes     |
+|:-----------|:----------:|:----------:|:----------:|:----------:|:----------:|
+|8:00/ 8:55  |CI          |CD          |            |            |CU          |
+|9:00/ 9:55  |CI          |CD          |            |            |CU          |
+|10:00/10:55 |CI          |CD          |SC          |CR          |CU          |
+|11:00/11:55 |CI          |CD          |SC          |CR          |CU          |
+|12:00/12:55 |CI          |CD          |SC          |CR          |            |
+|13:00/13:55 |            |            |SC          |CR          |            |
+|15:00/15:55 |            |            |            |            |            |
+|16:00/16:55 |            |VA          |            |VA          |            |
+|17:00/17:55 |            |VA          |            |VA          |            |
+|1I8:00/18:55|            |PS          |            |            |            |
+|19:00/19:55 |            |PS          |            |            |            |
+|20:00/20:55 |            |PS          |            |            |            |
+
+\newpage
+
+# C2 (4 Subjects)
+
+* **PL Planificación automática                                   (781003)**
+* CP Calidad, pruebas y mantenimientos del software             (780043)
+* BD Modelos avanzados de bases de datos                        (780047)
+* BI Bioingeniería                                              (780030)
+
+|Horario     |Lunes       |Martes      |Miércoles   |Jueves      |Viernes     |
+|:-----------|:----------:|:----------:|:----------:|:----------:|:----------:|
+|8:00/ 8:55  |            |            |PA          |            |            |
+|9:00/ 9:55  |            |            |PA          |            |            |
+|10:00/10:55 |            |            |PA          |            |BI          |
+|11:00/11:55 |            |            |PA          |            |BI          |
+|12:00/12:55 |            |            |            |            |BI          |
+|13:00/13:55 |            |            |            |            |BI          |
+|15:00/15:55 |            |BD          |CP          |            |            |
+|16:00/16:55 |            |BD          |CP          |            |            |
+|17:00/17:55 |            |BD          |CP          |            |            |
+|1I8:00/18:55|            |BD          |CP          |            |            |
+|19:00/19:55 |            |            |            |            |            |
+|20:00/20:55 |            |            |            |            |            |
