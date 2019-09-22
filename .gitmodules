@@ -10,3 +10,6 @@
 [submodule "PATRONES"]
 	path = PATRONES
 	url = https://github.com/JuanCasado/PATRONES.git
+[submodule "DATOS"]
+	path = DATOS
+	url = https://github.com/JuanCasado/DATOS.git
