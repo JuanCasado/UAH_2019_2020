@@ -1,3 +1,6 @@
 [submodule "UBICUA"]
 	path = UBICUA
 	url = https://github.com/JuanCasado/COMPUTACION_UBICUA.git
+[submodule "SOFT_COMPUTING"]
+	path = SOFT_COMPUTING
+	url = https://github.com/JuanCasado/SOFT_COMPUTING.git
