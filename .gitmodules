@@ -1,0 +1,3 @@
+[submodule "UBICUA"]
+	path = UBICUA
+	url = https://github.com/JuanCasado/COMPUTACION_UBICUA.git
