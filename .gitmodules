@@ -4,3 +4,6 @@
 [submodule "SOFT_COMPUTING"]
 	path = SOFT_COMPUTING
 	url = https://github.com/JuanCasado/SOFT_COMPUTING.git
+[submodule "ROBOTICA"]
+	path = ROBOTICA
+	url = https://github.com/JuanCasado/ROBOTICA.git
