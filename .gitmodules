@@ -16,3 +16,6 @@
 [submodule "CONTROL"]
 	path = CONTROL
 	url = https://github.com/JuanCasado/CONTROL.git
+[submodule "VISION_ARTIFICIAL"]
+	path = VISION_ARTIFICIAL
+	url = https://github.com/JuanCasado/VISION_ARTIFICIAL.git
